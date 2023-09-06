@@ -1,0 +1,7 @@
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\Első\Első\bin\Debug\Első.exe.config
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\Első\Első\bin\Debug\Első.exe
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\Első\Első\bin\Debug\Első.pdb
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\Első\Első\obj\Debug\Első.csproj.AssemblyReference.cache
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\Első\Első\obj\Debug\Első.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\Első\Első\obj\Debug\Első.exe
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\Első\Első\obj\Debug\Első.pdb
