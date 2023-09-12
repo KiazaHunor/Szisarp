@@ -8,6 +8,8 @@ namespace Első
 {
     class Program
     {
+        private static bool i;
+
         static void Main(string[] args)
         {
 
@@ -133,7 +135,15 @@ namespace Első
             {
                 Console.WriteLine(i);
             }
-            
+
+            /* HF 
+            */
+
+            for (int i = 10; i < 100; i += 5);
+            {
+                Console.WriteLine(i);
+            }
+
         }   
     }
 }
