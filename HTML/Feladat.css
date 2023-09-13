@@ -1,0 +1,17 @@
+table,tr,td
+{
+    background-color: aqua;
+    border: 2px solid darkblue;
+   
+    
+}
+body
+{
+    background-color: aqua;
+}
+table
+{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
