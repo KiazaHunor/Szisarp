@@ -1,0 +1,7 @@
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\09. 13 ÓRA\09. 13 ÓRA\obj\Debug\09. 13 ÓRA.csproj.AssemblyReference.cache
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\09. 13 ÓRA\09. 13 ÓRA\obj\Debug\09. 13 ÓRA.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\09. 13 ÓRA\09. 13 ÓRA\bin\Debug\09. 13 ÓRA.exe.config
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\09. 13 ÓRA\09. 13 ÓRA\bin\Debug\09. 13 ÓRA.exe
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\09. 13 ÓRA\09. 13 ÓRA\bin\Debug\09. 13 ÓRA.pdb
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\09. 13 ÓRA\09. 13 ÓRA\obj\Debug\09. 13 ÓRA.exe
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\09. 13 ÓRA\09. 13 ÓRA\obj\Debug\09. 13 ÓRA.pdb
