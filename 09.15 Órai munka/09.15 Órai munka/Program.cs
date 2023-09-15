@@ -39,6 +39,22 @@ namespace _09._13_ÓRA
                 Console.WriteLine();
             }
 
+            // 3. feladat
+            int szam3 = 0;
+            for (int i = 0; i <= 999; i++)
+            {
+                szam3 += i;
+                if (szam3 <= 999)
+                {
+                    Console.WriteLine(szam3);
+                }
+                else
+                {
+                    Console.WriteLine(i - 1);
+                    break;
+                }
+
+            }
 
 
 
