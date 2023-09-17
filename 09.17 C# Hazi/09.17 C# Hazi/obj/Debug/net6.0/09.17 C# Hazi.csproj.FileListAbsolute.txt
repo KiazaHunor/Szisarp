@@ -1,0 +1,14 @@
+C:\Users\Gyerekek\Desktop\Gyakorlás\SZísárp\09.17 C# Hazi\09.17 C# Hazi\bin\Debug\net6.0\09.17 C# Hazi.exe
+C:\Users\Gyerekek\Desktop\Gyakorlás\SZísárp\09.17 C# Hazi\09.17 C# Hazi\bin\Debug\net6.0\09.17 C# Hazi.deps.json
+C:\Users\Gyerekek\Desktop\Gyakorlás\SZísárp\09.17 C# Hazi\09.17 C# Hazi\bin\Debug\net6.0\09.17 C# Hazi.runtimeconfig.json
+C:\Users\Gyerekek\Desktop\Gyakorlás\SZísárp\09.17 C# Hazi\09.17 C# Hazi\bin\Debug\net6.0\09.17 C# Hazi.dll
+C:\Users\Gyerekek\Desktop\Gyakorlás\SZísárp\09.17 C# Hazi\09.17 C# Hazi\bin\Debug\net6.0\09.17 C# Hazi.pdb
+C:\Users\Gyerekek\Desktop\Gyakorlás\SZísárp\09.17 C# Hazi\09.17 C# Hazi\obj\Debug\net6.0\09.17 C# Hazi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gyerekek\Desktop\Gyakorlás\SZísárp\09.17 C# Hazi\09.17 C# Hazi\obj\Debug\net6.0\09.17 C# Hazi.AssemblyInfoInputs.cache
+C:\Users\Gyerekek\Desktop\Gyakorlás\SZísárp\09.17 C# Hazi\09.17 C# Hazi\obj\Debug\net6.0\09.17 C# Hazi.AssemblyInfo.cs
+C:\Users\Gyerekek\Desktop\Gyakorlás\SZísárp\09.17 C# Hazi\09.17 C# Hazi\obj\Debug\net6.0\09.17 C# Hazi.csproj.CoreCompileInputs.cache
+C:\Users\Gyerekek\Desktop\Gyakorlás\SZísárp\09.17 C# Hazi\09.17 C# Hazi\obj\Debug\net6.0\09.17 C# Hazi.dll
+C:\Users\Gyerekek\Desktop\Gyakorlás\SZísárp\09.17 C# Hazi\09.17 C# Hazi\obj\Debug\net6.0\refint\09.17 C# Hazi.dll
+C:\Users\Gyerekek\Desktop\Gyakorlás\SZísárp\09.17 C# Hazi\09.17 C# Hazi\obj\Debug\net6.0\09.17 C# Hazi.pdb
+C:\Users\Gyerekek\Desktop\Gyakorlás\SZísárp\09.17 C# Hazi\09.17 C# Hazi\obj\Debug\net6.0\09.17 C# Hazi.genruntimeconfig.cache
+C:\Users\Gyerekek\Desktop\Gyakorlás\SZísárp\09.17 C# Hazi\09.17 C# Hazi\obj\Debug\net6.0\ref\09.17 C# Hazi.dll
