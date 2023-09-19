@@ -12,3 +12,17 @@ C:\Users\Gyerekek\Desktop\Gyakorlás\SZísárp\09.17 C# Hazi\09.17 C# Hazi\obj\D
 C:\Users\Gyerekek\Desktop\Gyakorlás\SZísárp\09.17 C# Hazi\09.17 C# Hazi\obj\Debug\net6.0\09.17 C# Hazi.pdb
 C:\Users\Gyerekek\Desktop\Gyakorlás\SZísárp\09.17 C# Hazi\09.17 C# Hazi\obj\Debug\net6.0\09.17 C# Hazi.genruntimeconfig.cache
 C:\Users\Gyerekek\Desktop\Gyakorlás\SZísárp\09.17 C# Hazi\09.17 C# Hazi\obj\Debug\net6.0\ref\09.17 C# Hazi.dll
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\09.17 C# Hazi\09.17 C# Hazi\bin\Debug\net6.0\09.17 C# Hazi.exe
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\09.17 C# Hazi\09.17 C# Hazi\bin\Debug\net6.0\09.17 C# Hazi.deps.json
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\09.17 C# Hazi\09.17 C# Hazi\bin\Debug\net6.0\09.17 C# Hazi.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\09.17 C# Hazi\09.17 C# Hazi\bin\Debug\net6.0\09.17 C# Hazi.dll
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\09.17 C# Hazi\09.17 C# Hazi\bin\Debug\net6.0\09.17 C# Hazi.pdb
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\09.17 C# Hazi\09.17 C# Hazi\obj\Debug\net6.0\09.17 C# Hazi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\09.17 C# Hazi\09.17 C# Hazi\obj\Debug\net6.0\09.17 C# Hazi.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\09.17 C# Hazi\09.17 C# Hazi\obj\Debug\net6.0\09.17 C# Hazi.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\09.17 C# Hazi\09.17 C# Hazi\obj\Debug\net6.0\09.17 C# Hazi.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\09.17 C# Hazi\09.17 C# Hazi\obj\Debug\net6.0\09.17 C# Hazi.dll
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\09.17 C# Hazi\09.17 C# Hazi\obj\Debug\net6.0\refint\09.17 C# Hazi.dll
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\09.17 C# Hazi\09.17 C# Hazi\obj\Debug\net6.0\09.17 C# Hazi.pdb
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\09.17 C# Hazi\09.17 C# Hazi\obj\Debug\net6.0\09.17 C# Hazi.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\09.17 C# Hazi\09.17 C# Hazi\obj\Debug\net6.0\ref\09.17 C# Hazi.dll
