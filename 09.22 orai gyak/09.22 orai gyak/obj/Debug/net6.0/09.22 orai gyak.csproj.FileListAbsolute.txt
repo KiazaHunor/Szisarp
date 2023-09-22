@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\09.22 orai gyak\09.22 orai gyak\bin\Debug\net6.0\09.22 orai gyak.exe
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\09.22 orai gyak\09.22 orai gyak\bin\Debug\net6.0\09.22 orai gyak.deps.json
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\09.22 orai gyak\09.22 orai gyak\bin\Debug\net6.0\09.22 orai gyak.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\09.22 orai gyak\09.22 orai gyak\bin\Debug\net6.0\09.22 orai gyak.dll
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\09.22 orai gyak\09.22 orai gyak\bin\Debug\net6.0\09.22 orai gyak.pdb
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\09.22 orai gyak\09.22 orai gyak\obj\Debug\net6.0\09.22 orai gyak.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\09.22 orai gyak\09.22 orai gyak\obj\Debug\net6.0\09.22 orai gyak.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\09.22 orai gyak\09.22 orai gyak\obj\Debug\net6.0\09.22 orai gyak.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\09.22 orai gyak\09.22 orai gyak\obj\Debug\net6.0\09.22 orai gyak.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\09.22 orai gyak\09.22 orai gyak\obj\Debug\net6.0\09.22 orai gyak.dll
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\09.22 orai gyak\09.22 orai gyak\obj\Debug\net6.0\refint\09.22 orai gyak.dll
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\09.22 orai gyak\09.22 orai gyak\obj\Debug\net6.0\09.22 orai gyak.pdb
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\09.22 orai gyak\09.22 orai gyak\obj\Debug\net6.0\09.22 orai gyak.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\09.22 orai gyak\09.22 orai gyak\obj\Debug\net6.0\ref\09.22 orai gyak.dll
