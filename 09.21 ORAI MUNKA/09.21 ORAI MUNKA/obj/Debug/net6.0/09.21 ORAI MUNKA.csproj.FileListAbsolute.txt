@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\09.21 ORAI MUNKA\09.21 ORAI MUNKA\bin\Debug\net6.0\09.21 ORAI MUNKA.exe
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\09.21 ORAI MUNKA\09.21 ORAI MUNKA\bin\Debug\net6.0\09.21 ORAI MUNKA.deps.json
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\09.21 ORAI MUNKA\09.21 ORAI MUNKA\bin\Debug\net6.0\09.21 ORAI MUNKA.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\09.21 ORAI MUNKA\09.21 ORAI MUNKA\bin\Debug\net6.0\09.21 ORAI MUNKA.dll
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\09.21 ORAI MUNKA\09.21 ORAI MUNKA\bin\Debug\net6.0\09.21 ORAI MUNKA.pdb
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\09.21 ORAI MUNKA\09.21 ORAI MUNKA\obj\Debug\net6.0\09.21 ORAI MUNKA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\09.21 ORAI MUNKA\09.21 ORAI MUNKA\obj\Debug\net6.0\09.21 ORAI MUNKA.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\09.21 ORAI MUNKA\09.21 ORAI MUNKA\obj\Debug\net6.0\09.21 ORAI MUNKA.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\09.21 ORAI MUNKA\09.21 ORAI MUNKA\obj\Debug\net6.0\09.21 ORAI MUNKA.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\09.21 ORAI MUNKA\09.21 ORAI MUNKA\obj\Debug\net6.0\09.21 ORAI MUNKA.dll
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\09.21 ORAI MUNKA\09.21 ORAI MUNKA\obj\Debug\net6.0\refint\09.21 ORAI MUNKA.dll
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\09.21 ORAI MUNKA\09.21 ORAI MUNKA\obj\Debug\net6.0\09.21 ORAI MUNKA.pdb
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\09.21 ORAI MUNKA\09.21 ORAI MUNKA\obj\Debug\net6.0\09.21 ORAI MUNKA.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\09.21 ORAI MUNKA\09.21 ORAI MUNKA\obj\Debug\net6.0\ref\09.21 ORAI MUNKA.dll

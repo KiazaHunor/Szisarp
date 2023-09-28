@@ -1,0 +1,58 @@
+<mxfile host="app.diagrams.net" modified="2023-09-17T13:57:28.135Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.81" etag="BOBDcIRCuOu9tbtabyW0" version="21.7.5" type="device">
+  <diagram name="1 oldal" id="A42sRW7EY7-k_o22Ohhv">
+    <mxGraphModel dx="832" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZWUvtfqeolOXMRG-OqRC-1" value="Sör" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#D0CEE2;fontColor=#1A1A1A;fillColor=#5D7F99;fontStyle=1;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="320" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWUvtfqeolOXMRG-OqRC-2" value="Márka" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#D0CEE2;fontColor=#1A1A1A;fillColor=#5D7F99;" vertex="1" parent="1">
+          <mxGeometry x="220" y="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWUvtfqeolOXMRG-OqRC-4" value="Gyártási év" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#D0CEE2;fontColor=#1A1A1A;fillColor=#5D7F99;" vertex="1" parent="1">
+          <mxGeometry x="510" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWUvtfqeolOXMRG-OqRC-5" value="Ízvilág" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#D0CEE2;fontColor=#1A1A1A;fillColor=#5D7F99;" vertex="1" parent="1">
+          <mxGeometry x="540" y="290" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWUvtfqeolOXMRG-OqRC-6" value="Üveg/doboz" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#D0CEE2;fontColor=#1A1A1A;fillColor=#5D7F99;" vertex="1" parent="1">
+          <mxGeometry x="320" y="380" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWUvtfqeolOXMRG-OqRC-7" value="Kiszerelés mérete" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#D0CEE2;fontColor=#1A1A1A;fillColor=#5D7F99;" vertex="1" parent="1">
+          <mxGeometry x="50" y="210" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWUvtfqeolOXMRG-OqRC-9" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#736CA8;fontColor=#1A1A1A;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZWUvtfqeolOXMRG-OqRC-1" target="ZWUvtfqeolOXMRG-OqRC-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="280" as="sourcePoint" />
+            <mxPoint x="440" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZWUvtfqeolOXMRG-OqRC-10" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#736CA8;fontColor=#1A1A1A;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZWUvtfqeolOXMRG-OqRC-1" target="ZWUvtfqeolOXMRG-OqRC-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="280" as="sourcePoint" />
+            <mxPoint x="440" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZWUvtfqeolOXMRG-OqRC-11" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#736CA8;fontColor=#1A1A1A;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZWUvtfqeolOXMRG-OqRC-1" target="ZWUvtfqeolOXMRG-OqRC-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="280" as="sourcePoint" />
+            <mxPoint x="440" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZWUvtfqeolOXMRG-OqRC-12" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#736CA8;fontColor=#1A1A1A;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZWUvtfqeolOXMRG-OqRC-1" target="ZWUvtfqeolOXMRG-OqRC-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="280" as="sourcePoint" />
+            <mxPoint x="440" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZWUvtfqeolOXMRG-OqRC-13" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#736CA8;fontColor=#1A1A1A;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZWUvtfqeolOXMRG-OqRC-1" target="ZWUvtfqeolOXMRG-OqRC-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="280" as="sourcePoint" />
+            <mxPoint x="440" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
