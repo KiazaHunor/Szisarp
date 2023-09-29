@@ -1,0 +1,28 @@
+body
+{
+    background-color: rgb(224, 91, 47);
+}
+label
+{
+    font-size: 20px;
+}
+input
+{
+    border: 2px solid rgb(9, 136, 130);
+}
+input[type=text]
+{
+    width: 150px;
+}
+input[type=checkbox]
+{
+    width: 40px;
+}
+input[type=password]
+{
+    background-color: aqua;
+}
+input[name~="aa"]
+{
+    background-color: rgb(30, 196, 8);
+}
