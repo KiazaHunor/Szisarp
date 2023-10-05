@@ -1,4 +1,6 @@
-﻿bool jo = false;
+﻿
+string[] hosszusag = {"mm","cm","dm","m","km"};
+bool jo = false;
 
 while (!jo)
 {
@@ -28,4 +30,24 @@ while (!jo)
     }
 
     Console.WriteLine(szam);
+
+    if (hosszusag.Contains(darab[1]))
+    {
+    
+    }
+    else 
+    {
+        Console.WriteLine("Nem jó mértékegyseg!");
+        jo = false;
+        continue;
+    
+    }
 }
+
+Console.WriteLine("Mire szeretned atvaltani?");
+for (int i = 0; i < hosszusag.Length; i++) 
+{
+    Console.WriteLine(hosszusag[i]);
+}
+Console.Write("Válassz:");
+string valasz = Console.ReadLine();
