@@ -14,7 +14,8 @@ int[] szamok=tombKeszit(1000, 100, 999);
 
 int a = 0;
 int b = 0;
-/*
+
+
 for (int i = 0; i < szamok.Length; i++) 
 {
     if (szamok[i] % 2 == 0) 
@@ -28,9 +29,9 @@ for (int i = 0; i < szamok.Length; i++)
 }
 Console.WriteLine("Páros:" + a);
 Console.WriteLine("Paratlan" + b);
-*/
+
 //következő elem vizsgálata
-/*
+
 bool vanEgyenloSzomszedos=false;
 for (int i = 1; i < szamok.Length; i++)
 {
@@ -49,8 +50,8 @@ else
 {
     Console.WriteLine("Van egyenlő szomszédos eleme!");
 }
-*/
-/*
+
+
 for(int i = 1; i < szamok.Length;i++)
 {
     if (szamok[i] > szamok[i] + 1)
@@ -62,7 +63,7 @@ for(int i = 1; i < szamok.Length;i++)
         Console.WriteLine("Nem jó");
     }
 }
-*/
+
 
 void szakasz2(int[] szamTomb) 
 {
@@ -96,3 +97,4 @@ void szakasz2(int[] szamTomb)
     Console.WriteLine();
 }
 szakasz2(szamok);
+
