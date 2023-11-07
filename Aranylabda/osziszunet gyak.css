@@ -1,0 +1,170 @@
+
+html,body
+{
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    margin: 0;
+}
+.fu, .eg
+{
+    position: relative;
+}
+
+.eg
+{
+    height: 60%;
+    background-image: url(Statium.jpg);
+    background-position: 40%;
+}
+.fu
+{
+    height: 40%;
+    background-image: url(grass.jpg);
+    background-position: 40%;
+    
+}
+.Belligol
+{
+    height: 200px;
+    width: 20%;
+    position: absolute;
+    top: -40px;
+    animation-name: Belligol;
+    animation-duration: 5s;
+    animation-fill-mode: both;
+    animation-delay: 6s;
+}
+.CR7
+{
+    height: 200px;
+    width: 20%;
+    position: absolute;
+    right: 10px;
+    top: -40px;
+    animation-name: CR7;
+    animation-duration: 5s;
+    animation-fill-mode: both;
+    animation-delay: 6s;
+}    
+.Labda
+{
+    height: 100px;
+    width: 10%;
+    position: absolute;
+    left: 45%;
+    top: 75%;
+    animation-name: Labda;
+    animation-duration: 7s;
+    animation-delay: 8s;
+    animation-fill-mode: both;
+}
+.UWU
+{
+    height: 150px;
+    width: 20%;
+    position: absolute;
+    top: 600px;
+    left: 40%;
+    animation-name: UWU;
+    animation-duration: 8s;
+    animation-fill-mode: both;
+    animation-delay: 7s;
+}
+.viking
+{
+    height: 150px;
+    width: 20%;
+    position: absolute;
+    animation-name: viking;
+    top: 50%;
+    right: -30%;
+    animation-duration: 3s;
+    animation-delay: 12s;
+    animation-fill-mode: both;
+}
+.teki
+{
+    height: 150px;
+    width: 20%;   
+    position: absolute;
+    animation-name: teki;
+    top:50%;
+    left:-30%;
+    animation-duration: 3s;
+    animation-delay: 12s;
+    animation-fill-mode: both;
+
+}
+.ronaldo
+{
+    width: 500px;
+    height: 200px;
+    position: absolute;
+    animation-name: ronaldo;
+    animation-duration: 8s;
+    animation-fill-mode: both;
+    
+    
+    
+}
+.messi
+{
+    width: 500px;
+    height: 200px;
+    position: absolute;
+    animation-name: messi;
+    animation-duration: 8s;
+    animation-fill-mode: both;
+    
+    
+    
+}
+
+@keyframes Belligol
+{
+    from{ transform: translateX(0)}
+    to{transform: translateX(480px)}
+}
+
+@keyframes CR7
+{
+    from{ transform: translateX(0)}
+    to{transform: translateX(-480px)}
+}
+
+@keyframes Labda
+{
+    from{ transform: translateY(0)}
+    to{transform: translateY(-600px)}
+}
+
+@keyframes UWU
+{
+    from{ transform: translateY(0)}
+    to{transform: translateY(-750px)}
+    
+}
+@keyframes teki
+{
+    from{ transform: translateX(0)}
+    to{transform: translateX(580px)}
+}
+@keyframes viking
+{
+    from{ transform: translateX(0)}
+    to{transform: translateX(-650px)}
+    
+}
+
+@keyframes ronaldo {
+    0%   { left:1500px; top:20px;}
+    50%  { left:500px; top:20px;}
+    100% { left:-1500px; top:20px;}
+  }
+
+  @keyframes messi {
+    0%   { left:1500px; top:20px;}
+    50%  { left:500px; top:20px;}
+    100% { left:-1500px; top:20px;}
+  }
