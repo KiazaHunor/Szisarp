@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "orai gyak 11.14/1.0.0": {
+        "runtime": {
+          "orai gyak 11.14.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "orai gyak 11.14/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
