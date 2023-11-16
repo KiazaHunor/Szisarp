@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\09.29 masodik proba\09.29 masodik proba\bin\Debug\net6.0\09.29 masodik proba.exe
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\09.29 masodik proba\09.29 masodik proba\bin\Debug\net6.0\09.29 masodik proba.deps.json
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\09.29 masodik proba\09.29 masodik proba\bin\Debug\net6.0\09.29 masodik proba.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\09.29 masodik proba\09.29 masodik proba\bin\Debug\net6.0\09.29 masodik proba.dll
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\09.29 masodik proba\09.29 masodik proba\bin\Debug\net6.0\09.29 masodik proba.pdb
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\09.29 masodik proba\09.29 masodik proba\obj\Debug\net6.0\09.29 masodik proba.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\09.29 masodik proba\09.29 masodik proba\obj\Debug\net6.0\09.29 masodik proba.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\09.29 masodik proba\09.29 masodik proba\obj\Debug\net6.0\09.29 masodik proba.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\09.29 masodik proba\09.29 masodik proba\obj\Debug\net6.0\09.29 masodik proba.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\09.29 masodik proba\09.29 masodik proba\obj\Debug\net6.0\09.29 masodik proba.dll
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\09.29 masodik proba\09.29 masodik proba\obj\Debug\net6.0\refint\09.29 masodik proba.dll
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\09.29 masodik proba\09.29 masodik proba\obj\Debug\net6.0\09.29 masodik proba.pdb
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\09.29 masodik proba\09.29 masodik proba\obj\Debug\net6.0\09.29 masodik proba.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\09.29 masodik proba\09.29 masodik proba\obj\Debug\net6.0\ref\09.29 masodik proba.dll

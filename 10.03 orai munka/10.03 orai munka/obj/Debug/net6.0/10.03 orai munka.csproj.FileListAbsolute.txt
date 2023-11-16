@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\10.03 orai munka\10.03 orai munka\bin\Debug\net6.0\10.03 orai munka.exe
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\10.03 orai munka\10.03 orai munka\bin\Debug\net6.0\10.03 orai munka.deps.json
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\10.03 orai munka\10.03 orai munka\bin\Debug\net6.0\10.03 orai munka.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\10.03 orai munka\10.03 orai munka\bin\Debug\net6.0\10.03 orai munka.dll
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\10.03 orai munka\10.03 orai munka\bin\Debug\net6.0\10.03 orai munka.pdb
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\10.03 orai munka\10.03 orai munka\obj\Debug\net6.0\10.03 orai munka.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\10.03 orai munka\10.03 orai munka\obj\Debug\net6.0\10.03 orai munka.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\10.03 orai munka\10.03 orai munka\obj\Debug\net6.0\10.03 orai munka.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\10.03 orai munka\10.03 orai munka\obj\Debug\net6.0\10.03 orai munka.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\10.03 orai munka\10.03 orai munka\obj\Debug\net6.0\10.03 orai munka.dll
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\10.03 orai munka\10.03 orai munka\obj\Debug\net6.0\refint\10.03 orai munka.dll
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\10.03 orai munka\10.03 orai munka\obj\Debug\net6.0\10.03 orai munka.pdb
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\10.03 orai munka\10.03 orai munka\obj\Debug\net6.0\10.03 orai munka.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\10.03 orai munka\10.03 orai munka\obj\Debug\net6.0\ref\10.03 orai munka.dll
