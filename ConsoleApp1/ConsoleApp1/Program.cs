@@ -6,11 +6,15 @@ Random rand  = new Random();
 
 Random kartya = new Random();
 
-int darab = rand.Next(1, 11);
 
+int darab = rand.Next(1, 11);
 int darab2 = kartya.Next(1,11);
 
-for (int i = 0; i < darab; i++) 
+for (int i = 0; i < rand; i++) 
 {
     
 }
+
+
+Console.WriteLine(darab);
+Console.WriteLine(darab2);
