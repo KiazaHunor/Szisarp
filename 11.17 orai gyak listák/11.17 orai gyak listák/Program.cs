@@ -20,5 +20,5 @@ for (int i = 0;i < szamok.Count; i++)
     {
         
     }
-
+    console.w
 }
