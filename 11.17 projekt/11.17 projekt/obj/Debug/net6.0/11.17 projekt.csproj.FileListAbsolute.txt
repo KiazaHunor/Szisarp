@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\11.17 projekt\11.17 projekt\bin\Debug\net6.0\11.17 projekt.exe
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\11.17 projekt\11.17 projekt\bin\Debug\net6.0\11.17 projekt.deps.json
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\11.17 projekt\11.17 projekt\bin\Debug\net6.0\11.17 projekt.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\11.17 projekt\11.17 projekt\bin\Debug\net6.0\11.17 projekt.dll
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\11.17 projekt\11.17 projekt\bin\Debug\net6.0\11.17 projekt.pdb
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\11.17 projekt\11.17 projekt\obj\Debug\net6.0\11.17 projekt.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\11.17 projekt\11.17 projekt\obj\Debug\net6.0\11.17 projekt.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\11.17 projekt\11.17 projekt\obj\Debug\net6.0\11.17 projekt.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\11.17 projekt\11.17 projekt\obj\Debug\net6.0\11.17 projekt.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\11.17 projekt\11.17 projekt\obj\Debug\net6.0\11.17 projekt.dll
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\11.17 projekt\11.17 projekt\obj\Debug\net6.0\refint\11.17 projekt.dll
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\11.17 projekt\11.17 projekt\obj\Debug\net6.0\11.17 projekt.pdb
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\11.17 projekt\11.17 projekt\obj\Debug\net6.0\11.17 projekt.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\11.17 projekt\11.17 projekt\obj\Debug\net6.0\ref\11.17 projekt.dll
