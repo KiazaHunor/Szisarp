@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        function katt(elem)
+        {   
+            let gombok=document.getElementsByTagName("button");
+            console.log(gombok);
+
+            for(let i=0;i<gombok.length;i++)
+            {
+                gombok[i].style.backgroundColor="";
+                gombok[i].style.color="";
+                gombok[i].style.border="";
+                gombok[i].style.width="";
+                gombok[i].style.height="";
+            }
+
+            //let elem=document.getElementById("KatiGomb")
+            //elem.innerHTML="Kattintss";
+
+            console.log("Kattintás volt!");
+
+
+            elem.style.backgroundColor="red";
+            elem.style.color="white";
+            elem.style.border="2px solid black";
+            elem.style.width="200px";
+            elem.style.height="150px";
+        }
+    </script>
+
+    <button onclick="katt(this)" id="KatiGomb">Kattincs ide, he!</button>
+    <button onclick="katt(this)" id="masik">Kattinccccs ide,h3!</button>
+    <button onclick="katt(this)" >Kattinccccs ide,h1!</button>
+    <button onclick="katt(this)" >Kattinccccs ide,h2!</button>
+    <button onclick="katt(this)" >Kattinccccs ide,h5!</button>
+    <button onclick="katt(this)" >Kattinccccs ide,h7!</button>
+    <button onclick="katt(this)" >Kattinccccs ide,h30!</button>
+    <button onclick="katt(this)" >Kattinccccs ide,h31!</button>
+    <button onclick="katt(this)" >Kattinccccs ide,h32!</button>
+    <button onclick="katt(this)" >Kattinccccs ide,h323!</button>
+    <button onclick="katt(this)" >Kattinccccs ide,h3q3e!</button>
+    <button onclick="katt(this)" >Kattinccccs ide,h3qe!</button>
+</body>
+</html>
+
+hazi legyen 50 elem, legyen egy gomb ami mindegyiknek a háttérszínét beállítja masik szinre. legyen egy masik gomb ami torlo

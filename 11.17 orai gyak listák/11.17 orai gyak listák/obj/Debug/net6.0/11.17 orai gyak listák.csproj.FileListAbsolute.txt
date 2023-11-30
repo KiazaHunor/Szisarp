@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\11.17 orai gyak listák\11.17 orai gyak listák\bin\Debug\net6.0\11.17 orai gyak listák.exe
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\11.17 orai gyak listák\11.17 orai gyak listák\bin\Debug\net6.0\11.17 orai gyak listák.deps.json
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\11.17 orai gyak listák\11.17 orai gyak listák\bin\Debug\net6.0\11.17 orai gyak listák.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\11.17 orai gyak listák\11.17 orai gyak listák\bin\Debug\net6.0\11.17 orai gyak listák.dll
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\11.17 orai gyak listák\11.17 orai gyak listák\bin\Debug\net6.0\11.17 orai gyak listák.pdb
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\11.17 orai gyak listák\11.17 orai gyak listák\obj\Debug\net6.0\11.17 orai gyak listák.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\11.17 orai gyak listák\11.17 orai gyak listák\obj\Debug\net6.0\11.17 orai gyak listák.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\11.17 orai gyak listák\11.17 orai gyak listák\obj\Debug\net6.0\11.17 orai gyak listák.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\11.17 orai gyak listák\11.17 orai gyak listák\obj\Debug\net6.0\11.17 orai gyak listák.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\11.17 orai gyak listák\11.17 orai gyak listák\obj\Debug\net6.0\11.17 orai gyak listák.dll
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\11.17 orai gyak listák\11.17 orai gyak listák\obj\Debug\net6.0\refint\11.17 orai gyak listák.dll
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\11.17 orai gyak listák\11.17 orai gyak listák\obj\Debug\net6.0\11.17 orai gyak listák.pdb
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\11.17 orai gyak listák\11.17 orai gyak listák\obj\Debug\net6.0\11.17 orai gyak listák.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\11.17 orai gyak listák\11.17 orai gyak listák\obj\Debug\net6.0\ref\11.17 orai gyak listák.dll
