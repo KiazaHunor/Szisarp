@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\Jázmin1\Jázmin1\bin\Debug\net6.0\Jázmin1.exe
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\Jázmin1\Jázmin1\bin\Debug\net6.0\Jázmin1.deps.json
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\Jázmin1\Jázmin1\bin\Debug\net6.0\Jázmin1.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\Jázmin1\Jázmin1\bin\Debug\net6.0\Jázmin1.dll
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\Jázmin1\Jázmin1\bin\Debug\net6.0\Jázmin1.pdb
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\Jázmin1\Jázmin1\obj\Debug\net6.0\Jázmin1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\Jázmin1\Jázmin1\obj\Debug\net6.0\Jázmin1.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\Jázmin1\Jázmin1\obj\Debug\net6.0\Jázmin1.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\Jázmin1\Jázmin1\obj\Debug\net6.0\Jázmin1.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\Jázmin1\Jázmin1\obj\Debug\net6.0\Jázmin1.dll
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\Jázmin1\Jázmin1\obj\Debug\net6.0\refint\Jázmin1.dll
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\Jázmin1\Jázmin1\obj\Debug\net6.0\Jázmin1.pdb
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\Jázmin1\Jázmin1\obj\Debug\net6.0\Jázmin1.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\Jázmin1\Jázmin1\obj\Debug\net6.0\ref\Jázmin1.dll

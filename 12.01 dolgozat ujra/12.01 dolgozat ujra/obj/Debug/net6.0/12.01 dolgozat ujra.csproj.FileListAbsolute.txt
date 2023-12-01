@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\12.01 dolgozat ujra\12.01 dolgozat ujra\bin\Debug\net6.0\12.01 dolgozat ujra.exe
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\12.01 dolgozat ujra\12.01 dolgozat ujra\bin\Debug\net6.0\12.01 dolgozat ujra.deps.json
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\12.01 dolgozat ujra\12.01 dolgozat ujra\bin\Debug\net6.0\12.01 dolgozat ujra.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\12.01 dolgozat ujra\12.01 dolgozat ujra\bin\Debug\net6.0\12.01 dolgozat ujra.dll
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\12.01 dolgozat ujra\12.01 dolgozat ujra\bin\Debug\net6.0\12.01 dolgozat ujra.pdb
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\12.01 dolgozat ujra\12.01 dolgozat ujra\obj\Debug\net6.0\12.01 dolgozat ujra.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\12.01 dolgozat ujra\12.01 dolgozat ujra\obj\Debug\net6.0\12.01 dolgozat ujra.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\12.01 dolgozat ujra\12.01 dolgozat ujra\obj\Debug\net6.0\12.01 dolgozat ujra.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\12.01 dolgozat ujra\12.01 dolgozat ujra\obj\Debug\net6.0\12.01 dolgozat ujra.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\12.01 dolgozat ujra\12.01 dolgozat ujra\obj\Debug\net6.0\12.01 dolgozat ujra.dll
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\12.01 dolgozat ujra\12.01 dolgozat ujra\obj\Debug\net6.0\refint\12.01 dolgozat ujra.dll
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\12.01 dolgozat ujra\12.01 dolgozat ujra\obj\Debug\net6.0\12.01 dolgozat ujra.pdb
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\12.01 dolgozat ujra\12.01 dolgozat ujra\obj\Debug\net6.0\12.01 dolgozat ujra.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\12.01 dolgozat ujra\12.01 dolgozat ujra\obj\Debug\net6.0\ref\12.01 dolgozat ujra.dll
