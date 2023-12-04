@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<!-- saved from url=(0046)file:///C:/Users/Gyerekek/Downloads/11.30.html -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        input[type="button"]
+        {
+            width: 75px;
+            height: 50px;
+        }
+    </style>
+</head>
+<body>
+    <script>
+        function gombnyomas()
+        {
+            
+            let be =document.getElementById("szoveg");
+            console.log(be);
+            let cim1 =document.getElementsByTagName("h1");
+            console.log(cim1[0].innerHTML);
+            cim1[0].innerHTML=be.value;
+        }
+        function nyomas(ertek)
+        {
+            console.log(ertek);
+            let k=document.getElementById("kijelzo");
+            if(ertek==="C")
+            {
+                k.innerHTML="0"
+            }
+            else
+            {
+                if(k.innerHTML==="0" || beforemuvelet==="=")
+                {
+                    k.innerHTML="";
+                }
+                k.innerHTML+=ertek;
+            }
+
+        }
+        let before=0;
+        let beforemuvelet="+";
+
+        function muvelet(jel)
+        {
+            if(beforemuvelet==="+")
+            {
+                before += parseInt(document.getElementById("kijelzo").innerHTML)
+                beforemuvelet=jel;
+            }
+        
+            else if(beforemuvelet==="-")
+            {
+                before -= parseInt(document.getElementById("kijelzo").innerHTML)
+                beforemuvelet=jel;
+            }
+
+            else if(beforemuvelet==="*")
+            {
+                before *= parseInt(document.getElementById("kijelzo").innerHTML)
+                beforemuvelet=jel;
+            }
+
+            else if(beforemuvelet==="/")
+            {
+                before /= parseInt(document.getElementById("kijelzo").innerHTML)
+                beforemuvelet=jel;
+            }
+
+            if(jel==="=")
+            {
+                document.getElementById("kijelzo");
+            }
+            document.getElementById("kijelzo").innerHTML="0";
+            console.log(jel,before);
+        }
+    </script>
+    <h1></h1>
+    <form>
+        
+        
+    </form>
+    <h1>Számológép</h1>
+    <div id="fasza">
+        <div id="kijelzo">0</div>
+        <form>
+            <input type="button" value="7" id="" onclick="nyomas('7')">
+            <input type="button" value="8" id="" onclick="nyomas('8')">
+            <input type="button" value="9" id="" onclick="nyomas('9')">
+            <input type="button" value="+" id="" onclick="muvelet('+')"><br>
+            <input type="button" value="4" id="" onclick="nyomas('4')">
+            <input type="button" value="5" id="" onclick="nyomas('5')">
+            <input type="button" value="6" id="" onclick="nyomas('6')">
+            <input type="button" value="-" id="" onclick="muvelet('-')"><br>
+            <input type="button" value="1" id="" onclick="nyomas('1')">
+            <input type="button" value="2" id="" onclick="nyomas('2')">
+            <input type="button" value="3" id="" onclick="nyomas('3')">
+
+            <input type="button" value="*" id="" onclick="muvelet('*')"><br>
+            <input type="button" value="0" id="" onclick="nyomas('0')">
+            <input type="button" value="C" id="" onclick="nyomas('C')">
+            <input type="button" value="/" id="" onclick="muvelet('/')">
+            <input type="button" value="=" id="" onclick="muvelet('=')"><br>
+
+        </form>
+    </div>
+    <style>
+        input{background-color: rgb(16, 150, 16);
+            border: 2px black solid;}
+        
+        #fasza{border: 1px black solid;
+        height: 220px; width: 360px;}
+        
+    </style>
+
+</body></html>
