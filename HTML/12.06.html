@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hóesés</title>
+    <style>
+        .hopehely
+        {
+            width: 100px;
+            position: absolute;
+            top:115px;
+            right:300px;
+        }
+    </style>
+</head>
+<body onload="init();">
+    <script>
+        function init()
+        {
+            for(let i=0;i<13;i++)
+            {
+                let uj=document.createElement("img");
+                uj.setAttribute("class","hopehely");
+                uj.setAttribute("src","Hopehely_.jpg");
+            
+                document.body.appendChild(uj);
+            }
+            
+
+
+            
+
+            mozgat();
+        }
+
+        function mozgat()
+        {
+            kepek=document.getElementsByClassName("hopehely");
+            console.log(kepek);
+            for(let i=0;i<kepek.length;i++)
+            {
+                if(kepek[i].style.top==="")
+                {   
+                    kepek[i].style.top="0px";
+                    kepek[i].style.left=Math.floor(Math.random() * 1000) +"px";
+                    kepek[i].style.left=Math.floor(Math.random() * 5)+1;
+                    kepek[i].dataset.speed=10;
+                }
+                    console.log(kepek[i].style.top.replace("px",""))
+                    let y=parseInt(kepek[i].style.top.replace("px",""));
+                    y+=parseInt(kepek[i].dataset.speed);
+            
+                    if(y>800)
+                    {
+                        y=-200;
+                    }
+                    kepek[i].style.top=y+"px";
+            }
+            setTimeout(mozgat,10);            
+        }
+    </script>
+
+    <img src="Hopehely_.jpg" id="hopehely" class="hopehely">
+    <img src="Hopehely_.jpg" id="hopehely" class="hopehely">
+    <img src="Hopehely_.jpg" id="hopehely" class="hopehely">
+</body>
+</html>
