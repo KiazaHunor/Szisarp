@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>7.Feladat</title>
+
+</head>
+<body>
+    <script type="text/javascript">
+        function szamlaloProgram(f)
+        {
+                var a = a.elso.value;
+                var b = b.masodik.value;
+                var c = c.harmadik.value;
+                var d = d.negyedik.value;
+                var e = e.otodik.value;
+                var f = f.hatodik.value;
+                var g = g.hetedik.value;
+
+                if(u != "" && i!="" && !isNaN(parseFloat(u)) &&  !isNaN(parseFloat(i)))
+                  {
+                        f.r.value = parseFloat(u)/parseFloat(i);
+                }
+                else{
+                        alert("Hiányzó érték/ek!")                
+                }
+        }
+        </script>
+        
+        <form>
+        <input type="text" name="elso" value="elso">
+        <input type="text" name="masodik" >
+        <input type="text" name="harmadik">
+        <input type="text" name="negyedik">
+        <input type="text" name="otodik" >
+        <input type="text" name="hatodik" >
+        <input type="text" name="hetedik" >
+
+        
+        <input type="button" onclick="szamlaloProgram(this.form)" value="gomb">
+        </form>
+        </body>
+    
+</body>
+</html>
