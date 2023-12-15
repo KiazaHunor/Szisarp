@@ -7,38 +7,36 @@
 
 </head>
 <body>
+        <a id="demo"></a>
     <script type="text/javascript">
-        function szamlaloProgram(f)
+        function szamlaloProgram(a1,a2,a3,a4,a5,a6,a7,)
         {
-                var a = a.elso.value;
-                var b = b.masodik.value;
-                var c = c.harmadik.value;
-                var d = d.negyedik.value;
-                var e = e.otodik.value;
-                var f = f.hatodik.value;
-                var g = g.hetedik.value;
-
-                if(u != "" && i!="" && !isNaN(parseFloat(u)) &&  !isNaN(parseFloat(i)))
-                  {
-                        f.r.value = parseFloat(u)/parseFloat(i);
-                }
-                else{
-                        alert("Hiányzó érték/ek!")                
-                }
+                return a1 * a3 * a5* a7;
         }
+
+        
+        let result = myFunction();
+        document.getElementById("demo").innerHTML = result;
+        var name = prompt("What is your name?");
+        
         </script>
         
-        <form>
-        <input type="text" name="elso" value="elso">
-        <input type="text" name="masodik" >
-        <input type="text" name="harmadik">
-        <input type="text" name="negyedik">
-        <input type="text" name="otodik" >
-        <input type="text" name="hatodik" >
-        <input type="text" name="hetedik" >
+
+        <div>Adjon meg 7 számot!</div>
+        
+                <form class="test">
+                <input type="text" name="elso" >
+                <input type="text" name="masodik" >
+                <input type="text" name="harmadik">
+                <input type="text" name="negyedik">
+                <input type="text" name="otodik" >
+                <input type="text" name="hatodik" >
+                <input type="text" name="hetedik" >
+        
 
         
         <input type="button" onclick="szamlaloProgram(this.form)" value="gomb">
+
         </form>
         </body>
     

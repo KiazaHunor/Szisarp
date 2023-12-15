@@ -1,26 +1,31 @@
-﻿namespace oop
-{ 
-    class auto
+﻿using _12._12;
+
+class auto
+{
+    public int kerekSzam = 4;
+    public void dudal()
     {
-        public int kerekSZam = 4;
+        Console.WriteLine("tututtutututut");
+    }
+    private string _tulaj;
 
-         public void dudal()
+    public string tulajdonos
+    {
+        get
         {
-            Console.WriteLine("adwawdawawdawdaw!!");
+            return _tulaj;
         }
-
-        private string _tulaj;
-
-        public string tulajdonos
+        set
         {
-            get 
+            if (value == "Bence")
             {
-                return _tulaj;
+                Console.WriteLine("NEM");
             }
-            set 
+            else 
             {
                 _tulaj = value;
             }
+            
         }
     }
 }
@@ -29,8 +34,16 @@ class Program
     static void Main()
     {
         auto kocsi = new auto();
-        Console.WriteLine(kocsi.keretSzam);
+        Console.WriteLine(kocsi.kerekSzam);
 
         kocsi.dudal();
+        kocsi.tulajdonos = "Gabi";
+        Console.WriteLine(kocsi.tulajdonos);
+
+        kocsi.tulajdonos = "Bence";
+        Console.WriteLine(kocsi.tulajdonos);
+
+        Laci laci = new Laci();
+        laci.sug();
     }
 }
