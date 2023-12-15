@@ -7,8 +7,21 @@
 
 </head>
 <body>
+
+
         <a id="demo"></a>
     <script type="text/javascript">
+
+        function zarva()
+        {
+                
+                let beker = document.getElementsByTagName("input");
+                for(let i =1; i<beker.length;i+=2)
+                {
+                        console.log(beker[i]);
+                }
+                
+        }
         function szamlaloProgram(a1,a2,a3,a4,a5,a6,a7,)
         {
                 return a1 * a3 * a5* a7;
@@ -17,7 +30,9 @@
         
         let result = myFunction();
         document.getElementById("demo").innerHTML = result;
-        var name = prompt("What is your name?");
+        
+        var name =prompt("hellcso","Csongi")
+        printIn("Szia"+ name + "!" );
         
         </script>
         
@@ -25,7 +40,7 @@
         <div>Adjon meg 7 számot!</div>
         
                 <form class="test">
-                <input type="text" name="elso" >
+                <input type="text"  name="elso" >
                 <input type="text" name="masodik" >
                 <input type="text" name="harmadik">
                 <input type="text" name="negyedik">
@@ -35,10 +50,10 @@
         
 
         
-        <input type="button" onclick="szamlaloProgram(this.form)" value="gomb">
+        <input type="button" onclick="zarva()" value="gomb">
 
         </form>
-        </body>
-    
+        
+        
 </body>
 </html>
