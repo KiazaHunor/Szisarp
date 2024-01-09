@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\01.09 gyakorlas\01.09 gyakorlas\bin\Debug\net6.0\01.09 gyakorlas.exe
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\01.09 gyakorlas\01.09 gyakorlas\bin\Debug\net6.0\01.09 gyakorlas.deps.json
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\01.09 gyakorlas\01.09 gyakorlas\bin\Debug\net6.0\01.09 gyakorlas.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\01.09 gyakorlas\01.09 gyakorlas\bin\Debug\net6.0\01.09 gyakorlas.dll
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\01.09 gyakorlas\01.09 gyakorlas\bin\Debug\net6.0\01.09 gyakorlas.pdb
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\01.09 gyakorlas\01.09 gyakorlas\obj\Debug\net6.0\01.09 gyakorlas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\01.09 gyakorlas\01.09 gyakorlas\obj\Debug\net6.0\01.09 gyakorlas.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\01.09 gyakorlas\01.09 gyakorlas\obj\Debug\net6.0\01.09 gyakorlas.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\01.09 gyakorlas\01.09 gyakorlas\obj\Debug\net6.0\01.09 gyakorlas.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\01.09 gyakorlas\01.09 gyakorlas\obj\Debug\net6.0\01.09 gyakorlas.dll
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\01.09 gyakorlas\01.09 gyakorlas\obj\Debug\net6.0\refint\01.09 gyakorlas.dll
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\01.09 gyakorlas\01.09 gyakorlas\obj\Debug\net6.0\01.09 gyakorlas.pdb
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\01.09 gyakorlas\01.09 gyakorlas\obj\Debug\net6.0\01.09 gyakorlas.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\01.09 gyakorlas\01.09 gyakorlas\obj\Debug\net6.0\ref\01.09 gyakorlas.dll

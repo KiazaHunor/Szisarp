@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="12.18 css.css">
+    <title>Document</title>
+</head>
+<body onload="init()">
+    <script>
+        function init()
+        {
+            console.log("start")
+            gombDisz();
+        }
+
+        function gombDisz()
+        {
+            elem=document.createElement("img");
+            elem.src="karigomb.jpg";
+            elem.style.height=rand(30,100)+"px";
+            elem.style.position="absolute"
+            elem.style.left=rand(0,500)+"px";
+            elem.style.top=rand(0,500)+"px";
+            document.getElementById("fenyo").appendChild(elem);
+        }
+
+        function rand(min,max)
+        {
+            return Math.floor(Math.random() * (max-min+1)) + min;
+        }
+    </script>
+
+
+    <div id="fenyo"></div>
+
+
+
+   
+</body>
+</html>
