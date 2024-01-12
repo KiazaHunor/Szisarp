@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\01.12 ko papir ollo\01.12 ko papir ollo\bin\Debug\net6.0\01.12 ko papir ollo.exe
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\01.12 ko papir ollo\01.12 ko papir ollo\bin\Debug\net6.0\01.12 ko papir ollo.deps.json
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\01.12 ko papir ollo\01.12 ko papir ollo\bin\Debug\net6.0\01.12 ko papir ollo.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\01.12 ko papir ollo\01.12 ko papir ollo\bin\Debug\net6.0\01.12 ko papir ollo.dll
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\01.12 ko papir ollo\01.12 ko papir ollo\bin\Debug\net6.0\01.12 ko papir ollo.pdb
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\01.12 ko papir ollo\01.12 ko papir ollo\obj\Debug\net6.0\01.12 ko papir ollo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\01.12 ko papir ollo\01.12 ko papir ollo\obj\Debug\net6.0\01.12 ko papir ollo.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\01.12 ko papir ollo\01.12 ko papir ollo\obj\Debug\net6.0\01.12 ko papir ollo.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\01.12 ko papir ollo\01.12 ko papir ollo\obj\Debug\net6.0\01.12 ko papir ollo.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\01.12 ko papir ollo\01.12 ko papir ollo\obj\Debug\net6.0\01.12 ko papir ollo.dll
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\01.12 ko papir ollo\01.12 ko papir ollo\obj\Debug\net6.0\refint\01.12 ko papir ollo.dll
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\01.12 ko papir ollo\01.12 ko papir ollo\obj\Debug\net6.0\01.12 ko papir ollo.pdb
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\01.12 ko papir ollo\01.12 ko papir ollo\obj\Debug\net6.0\01.12 ko papir ollo.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\01.12 ko papir ollo\01.12 ko papir ollo\obj\Debug\net6.0\ref\01.12 ko papir ollo.dll
