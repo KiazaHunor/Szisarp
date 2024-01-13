@@ -1,27 +1,12 @@
 ﻿
-List<int> szamok = new List<int>();
+string elso = ("7650 fő ");
+string masodik = ("7490 fő ");
+string harmadik = ("7590 fő ");
+string negyedik = ("8020 fő ");
+string otodik = ("7720 fő ");
 
-Console.Write("1. szam:");
-szamok.Add(Convert.ToInt32(Console.ReadLine()));
-Console.Write("2. szam:");
-szamok.Add(Convert.ToInt32(Console.ReadLine()));
-Console.Write("3. szam:");
-szamok.Add(Convert.ToInt32(Console.ReadLine()));
-Console.Write("4. szam:");
-szamok.Add(Convert.ToInt32(Console.ReadLine()));
-
-
-
-
-szamok.Reverse();
-
-Console.WriteLine();
-
-foreach (int szam in szamok) 
-{
-    Console.WriteLine(szam);
-}
-
-szamok.Reverse(0, 3);
-
-
+Console.WriteLine("| " + "2012 " + "| " + elso + "| ");
+Console.WriteLine("| " + "2013 " + "| " + masodik + "| ");
+Console.WriteLine("| " + "2014 " + "| " + harmadik + "| ");
+Console.WriteLine("| " + "2015 " + "| " + negyedik + "| ");
+Console.WriteLine("| " + "2016 " + "| " + otodik + "| ");
