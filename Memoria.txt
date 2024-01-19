@@ -1,0 +1,14 @@
+Memoria jatek
+3 nehezsegi szint (rolunk kepekkel)
+1 szint: 8 pár
+2 szint: 16 pár
+3 szint: 64 pár
+Reszponzyv felépítés (telefonra is jo )
+
+Működés:
+-Minden kép lefordítva
+- 1 kép felforditva
+- mégegy kép felfordul
+- ha egyezik, ugymarad
+-vége ha minden kép felfordul
+- időmérés! Aktualkis idő(most)- kezdodik!
