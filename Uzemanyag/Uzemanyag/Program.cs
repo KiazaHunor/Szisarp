@@ -53,3 +53,9 @@ else
 {
     Console.WriteLine("6. Feladat: Nemvolt változás.");
 }
+
+for(int i = 0;i < valtozasok.Count;i++)
+{
+    Console.WriteLine(valtozasok[i].fileba());
+
+}

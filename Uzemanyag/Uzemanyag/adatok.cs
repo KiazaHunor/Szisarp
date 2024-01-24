@@ -11,6 +11,7 @@ namespace Uzemanyag
         public DateTime datum;
         public int benzin;
         public int gazolaj;
+        double euro = 307.7;
 
         public adatok(string sor) 
         {
@@ -22,6 +23,18 @@ namespace Uzemanyag
         public int kulonbseg()
         {
             return Math.Abs(benzin -gazolaj);
+        }
+        public double benzineuro() 
+        {
+            return benzin/euro;
+        }
+        public double gazolajeuro() 
+        {
+            return gazolaj/euro;
+        }
+        public string fileba() 
+        {
+            return datum.ToString()+";"+Math.Round(benzineuro(),2)+";"+Math.Round(gazolajeuro(),2);
         }
     }
 
