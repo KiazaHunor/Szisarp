@@ -1,5 +1,5 @@
-var kepekUrl=["a.jpg","b.jpg","c.jpeg","d.jpeg","e.jfif","f.jfif","k.jfif","t.jfif","l.png"]
-var parDb=4;
+var kepekUrl=["screenshot45.png","screenshot100.png","screenshot33.png","screenshot21.png","screenshot12.png","screenshot.png","a.jpg","b.jpg","c.jpeg","d.jpeg","e.jfif","f.jfif","k.jfif","t.jfif","l.png"]
+var parDb=15;
 
 function init()
 {
@@ -24,8 +24,17 @@ function kepKirakas()
             uj.className="kartya";
             uj.onclick=function()
             {
-              uj.style.backgroundImage="url(kepek/"+ kepekUrl[i]+")";
+              if(kattintas<2)
+              {
+                uj.style.backgroundImage="url(kepek/"+ kepekUrl[i]+")";
+                uj.dataset.felforditva="true";
+              }
               kattintas++;
+              if(kattintas===2)
+              {
+                setTimeout(visszaFordit,2000);
+              }
+              
             }
             
             kartyak.push(uj)
@@ -39,7 +48,53 @@ function kepKirakas()
       asztal.appendChild(kartyak[i]);
     }
     
+    function visszaFordit()
+    {
+      const lapok=document.getElementById("asztal").children;
+      console.log(lapok);
+      const aktiv=[];
+      for(let i=0;i<lapok.length;i++)
+      {
+        if(lapok[i].dataset.felforditva==="true")
+        {
+          aktiv.push(lapok[i]);
+        }
+      }
     
+    console.log(aktiv)
+    if(aktiv[0].style.backgroundImage!==aktiv[1].style.backgroundImage)
+    {
+      aktiv[0].style.backgroundImage="";
+      aktiv[1].style.backgroundImage="";
+      
+    }
+    else
+    {
+      aktiv[0].onclick="";
+      aktiv[1].onclick="";
+    }
+    aktiv[0].dataset.felforditva="";
+    aktiv[1].dataset.felforditva="";
+    kattintas=0;
+  }
+
+  function vanEmeg()
+  {
+    const lapok=document.getElementById("asztal").children;
+      
+      let darab=0;
+      for(let i=0;i<lapok.length;i++)
+      {
+        if(lapok[i].style.backgroundImage==="")
+        {
+          darab++;
+        }
+      }
+  }
+
+
+
+
 
 
   function kever(points) 
