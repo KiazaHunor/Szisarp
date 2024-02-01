@@ -1,5 +1,5 @@
 var kepekUrl=["screenshot45.png","screenshot100.png","screenshot33.png","screenshot21.png","screenshot12.png","screenshot.png","a.jpg","b.jpg","c.jpeg","d.jpeg","e.jfif","f.jfif","k.jfif","t.jfif","l.png"]
-var parDb=15;
+var parDb=5;
 
 function init()
 {
@@ -70,12 +70,27 @@ function kepKirakas()
     }
     else
     {
+      //párt találtunk
       aktiv[0].onclick="";
       aktiv[1].onclick="";
+      if(!vanEmeg())
+      {
+         nyertel();
+      }
+
+
     }
     aktiv[0].dataset.felforditva="";
     aktiv[1].dataset.felforditva="";
     kattintas=0;
+
+    function nyertel()
+    {
+      let uj=document.createElement("div");
+      uj.innerHTML="Game over";
+      document.getElementById("asztal").appendChild(uj);
+
+    }
   }
 
   function vanEmeg()
