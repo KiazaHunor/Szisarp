@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\fogado 01.30\fogado 01.30\bin\Debug\net6.0\fogado 01.30.exe
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\fogado 01.30\fogado 01.30\bin\Debug\net6.0\fogado 01.30.deps.json
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\fogado 01.30\fogado 01.30\bin\Debug\net6.0\fogado 01.30.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\fogado 01.30\fogado 01.30\bin\Debug\net6.0\fogado 01.30.dll
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\fogado 01.30\fogado 01.30\bin\Debug\net6.0\fogado 01.30.pdb
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\fogado 01.30\fogado 01.30\obj\Debug\net6.0\fogado 01.30.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\fogado 01.30\fogado 01.30\obj\Debug\net6.0\fogado 01.30.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\fogado 01.30\fogado 01.30\obj\Debug\net6.0\fogado 01.30.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\fogado 01.30\fogado 01.30\obj\Debug\net6.0\fogado 01.30.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\fogado 01.30\fogado 01.30\obj\Debug\net6.0\fogado 01.30.dll
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\fogado 01.30\fogado 01.30\obj\Debug\net6.0\refint\fogado 01.30.dll
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\fogado 01.30\fogado 01.30\obj\Debug\net6.0\fogado 01.30.pdb
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\fogado 01.30\fogado 01.30\obj\Debug\net6.0\fogado 01.30.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\fogado 01.30\fogado 01.30\obj\Debug\net6.0\ref\fogado 01.30.dll

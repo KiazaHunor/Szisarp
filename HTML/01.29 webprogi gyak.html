@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>sajatf</title>
+</head>
+<body>
+    <script>
+// Tömb 1-től százig
+const array1 = Array.from({ length: 100 }, (_, index) => index + 1);
+
+// Másik módszer a tömb 1-től százig
+const array2 = [...Array(100)].map((_, index) => index + 1);
+
+// Tömb 100-tól 1-ig
+const array3 = Array.from({ length: 100 }, (_, index) => 100 - index);
+
+console.log("Tömb 1-től százig:");
+console.log("1. Módszer:", array1);
+console.log("2. Módszer:", array2);
+console.log("3. Módszer:", array3);
+
+// Tömb 100-tól 1-ig másik módszer
+const array4 = Array.from({ length: 100 }, (_, index) => 100 - index);
+
+console.log("Tömb 100-tól 1-ig másik módszer:");
+console.log(array4);
+
+// Az első tömb utolsó 10 eleme másik módszerrel
+const last10Elements = array1.slice(-10);
+
+console.log("Az első tömb utolsó 10 eleme:");
+console.log(last10Elements);
+    </script>
+</body>
+</html>s
