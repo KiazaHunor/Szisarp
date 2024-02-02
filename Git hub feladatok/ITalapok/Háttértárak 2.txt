@@ -1,0 +1,24 @@
+﻿Háttértárolok
+
+-Típusai: Mágneses: winchester, floppy
+                                                                 Optikai: CD, DVD,
+                                                                  Elektronikus:SSD;Pendrive
+
+-Működési elvük:  Az éppen nem használt adatokat és programokat háttértárolókon tároljuk. A háttértárak a memóriához hasonlóan adatokat és programokat tárolnak
+A legelterjedtebb tárolók mágneses jelek formájában vagy optikai elven tárolják az információt.
+
+-Tárolási kapacitásuk: HDD;SSD; Pendrive; Flopy; CD; DVD; Szalag
+
+
+
+Fogalmak:
+RAM:         A RAM egy véletlen elérésű írható–olvasható adattároló eszköz .A RAM tárolja a CPU által végrehajtandó programokat és a feldolgozásra váró adatokat.
+Az adatok csak addig maradnak meg benne, amíg a számítógép feszültség alatt van: kikapcsoláskor a benne tárolt adatok elvesznek.
+
+ROM:   A ROM egy olyan elektrotechnikai eszköz, amely csak olvasható adatok tárolására alkalmas memória. Tartalma nem változtatható, az egyszer beégetett adatok véglegesek.
+Az eszköz a benne tárolt adatokat típustól függően, korlátlan vagy korlátozott ideig áramtalanított állapotban is megőrzi.
+
+EPROM:   A Erasable Programmable Read-Only Memory azaz törölhető, és programozható ROM Memóriamodul, amelynek tartalmát megírása után – a PROM memóriához hasonlóan – nem lehet módosítani.
+
+
+EEPROM: Az EEPROM  egy speciális változata, mely elektromos úton törölhető, majd újraírható. Használati körük általában az olyan ritkán változó adatok, mint a BIOS-ok és egyéb Firmware-ek nem változó részeinek tárolása.

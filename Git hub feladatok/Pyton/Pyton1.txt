@@ -1,0 +1,2 @@
+print("Hello World",end="\n__________----_---___\n")
+print("Hello World","Hello Világ!",42, sep=" --- ")

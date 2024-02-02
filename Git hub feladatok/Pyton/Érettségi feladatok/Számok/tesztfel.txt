@@ -1,0 +1,11 @@
+3 1937 Melyik evben vezettek be Magyarorszagon a 8 oras munkaidot?
+3 3 Mennyi 1000 tizes alapu logaritmusa?
+1 19 Hany megyeje van Magyarorszagnak?
+3 10 Hany orszagon halad at a Duna?
+3 157 Kb. hany ezer negyzetkilometer a Tisza vizgyujto terulete?
+1 1514 Melyik evben volt a Dozsa-fele parasztfelkeles?
+3 8 Mi a Fibonacci-sorozat 6. eleme?
+1 540 Hany fok a szabalyos otszog szogeinek osszege?
+2 2 Hanyadik helyen all India az orszagok nepesseg szerinti rangsoraban?
+3 77 Hany km hosszu a Balaton?
+A feladatsorra összesen 23 pont adható.

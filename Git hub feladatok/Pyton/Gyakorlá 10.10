@@ -1,0 +1,22 @@
+beSzám=0
+
+
+while beSzám<2 or beSzám>5:
+    beSzám= int(input("Adj meg egy számot 2 és 5 között: "))
+
+autok=[]
+for i in range(0, beSzám):
+    print(i)
+    autok.append(input("Kérem a(z) "+str(i)+ ". autó márkát: "))
+
+
+print(autok)
+
+szo="Almafa"
+
+mgh=["ö","ü","ó","e","ő","o","é","a","á","i","í"]
+if szo.lower[0] in mgh:
+    print("az")
+else:
+    print("a")
+    

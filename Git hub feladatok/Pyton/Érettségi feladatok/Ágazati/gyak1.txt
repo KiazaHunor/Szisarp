@@ -1,0 +1,6 @@
+Bela;2003
+Andras;2001
+Martin;2000
+Aladar;1999
+Marton;2004
+Geza;2006

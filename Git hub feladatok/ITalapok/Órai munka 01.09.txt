@@ -1,0 +1,11 @@
+2.A,PC,Laptop,IP Phone,Smartphone,Tablet,Printer
+  B, Switch,AccesPoint
+  C, Egyeneskötésű kábel, Wierlles
+4.
+5.C: Aki rendelkezik a WI-FI nevévek és jelszavával.
+8. DHPC,DHPSv6,TFTP,DNS,SYSLOG,AAA,NTP,EMAIL,FTP,IoT,stb
+9. a:Server0,Printer0,PC1,Laptop0,Smartphone1,Laptop1,TabletPC0
+   b:
+10:Megtaláltam a hibát feladat közben!
+11:Megtaláltam a hibát feladat közben!
+12:

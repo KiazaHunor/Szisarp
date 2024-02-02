@@ -1,0 +1,25 @@
+
+body{
+	box-sizing: border-box;
+}
+.doboz,.doboz table {
+    border: 2px solid rgb(86, 86, 86);
+    border-radius: 15px;
+    background-color: rgb(210, 237, 250);
+}
+
+
+.lablec a {
+    color: #000;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.lablec a:hover {
+    font-style: italic;
+    text-decoration: none;
+}
+p
+{
+    text-align: justify;
+}

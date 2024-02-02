@@ -1,0 +1,7 @@
+9.
+b Igen
+c Igen
+d titkositott
+
+11 a igen
+   b Minimum = 0ms, Maximum = 1ms, Average = 0ms
