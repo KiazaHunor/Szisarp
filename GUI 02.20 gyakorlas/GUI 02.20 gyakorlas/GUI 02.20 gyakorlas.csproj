@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>GUI_02._20_gyakorlas</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="03.jpg" />
+    <None Remove="makeitmeme_jUB6B.jpeg" />
+    <None Remove="received_706011787109797.jpeg" />
+    <None Remove="ytdgbg.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="03.jpg" />
+    <Resource Include="makeitmeme_jUB6B.jpeg" />
+    <Resource Include="received_706011787109797.jpeg" />
+    <Resource Include="ytdgbg.jpg" />
+  </ItemGroup>
+
+</Project>

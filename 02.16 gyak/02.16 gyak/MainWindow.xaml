@@ -1,0 +1,32 @@
+﻿<Window x:Class="_02._16_gyak.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_02._16_gyak"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Image HorizontalAlignment="Left" Height="100" Margin="273,141,0,0" VerticalAlignment="Top" Width="100"/>
+        <Button x:Name="button" Content="Button" HorizontalAlignment="Left" Margin="90,37,0,0" VerticalAlignment="Top" Click="Button_Click" Initialized="Button_Initialized" RenderTransformOrigin="0.5,0.5" Height="105" Width="248">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="1.284"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <RichTextBox x:Name="richTextBox" TextChanged="RichTextBox_TextChanged" Margin="479,105,86,158">
+            <FlowDocument>
+                <Paragraph>
+                    <Run Text="RichTextBox"/>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+        <Image x:Name="Levi" HorizontalAlignment="Left" Height="179" Margin="204,239,0,0" VerticalAlignment="Top" Width="347" Source="/received_706011787109797.jpeg"/>
+        <Slider x:Name="slider" HorizontalAlignment="Left" Margin="107,191,0,0" VerticalAlignment="Top" Width="120" ValueChanged="slider_ValueChanged" Maximum="1" LargeChange="0.1" SmallChange="0.01" TickFrequency="0.1" TickPlacement="TopLeft"/>
+
+    </Grid>
+</Window>

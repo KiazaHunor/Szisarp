@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>_02._16_gyak</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="received_706011787109797.jpeg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="received_706011787109797.jpeg" />
+  </ItemGroup>
+
+</Project>
