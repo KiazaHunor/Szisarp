@@ -37,7 +37,13 @@ namespace Wpf_urlap_gyak_02._23
             }
             else 
             {
-                listbox.Items.Add(nev + ", " + szul + ", " + kor);
+                if(uzenet == "Add vissza az ezresemet!")
+                { 
+                   listbox.Items[listbox.SelectedIndex] = nev+ ", " + szul + ", " + kor;
+                }
+                else 
+                { listbox.Items.Add(nev + ", " + szul + ", " + kor); }
+                
 
                 textbox1.Text = "";
                 textbox2.Text = "";
@@ -47,6 +53,25 @@ namespace Wpf_urlap_gyak_02._23
 
            
 
+        }
+
+        private void listbox_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+
+        }
+        string uzenet = "";
+
+        private void listbox_MouseUp(object sender, MouseButtonEventArgs e)
+        {
+            string szoveg = ((ListBox)sender).SelectedItem.ToString();
+            MessageBox.Show(szoveg);
+
+            string[] vag = szoveg.Split(", ");
+            textbox1.Text = vag[0];
+            textbox2.Text = vag[1];
+            textbox3.Text = vag[2];
+
+            uzenet = "Add vissza az ezresemet!";
         }
     }
 }
