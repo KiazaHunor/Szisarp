@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        class auto
+        {
+            constructor(nev,szin,evjarat)
+            {
+                this.nev=nev
+                this.szin=szin
+                this.evjarat=evjarat
+            }
+            get tulajdonos(){
+                return this._tulaj;
+            }
+            set tulajdonos(nev){
+                this._tulaj=nev[0].toUpperCase()+nev.substring(1).toLoverCase();
+            }
+            static motorhang()
+            {   
+                if(tipus=="benzines")
+                {
+                    return "Vroom-vroom";
+                }
+                else if(tipus==="dizel")
+                {
+                    return "Tktktktkt";
+                }
+                else if(tipus==="elektromos")
+                {
+                    return "iiiiiiiiii";
+                }
+                return "Nincs motor";
+                
+            }
+            
+        }
+
+        const a1=new auto("audi","fekete",2024)
+        console.log(a1.nev);
+        console.log(a1.tulajdonos);
+        a1.tulajdonos="bence";
+        console.log(a1.tulajdonos);
+        
+
+        a1=new auto("BÉEMVÉJ","piros",1992)
+        console.log(auto.motorhang("dizel"));
+    </script>
+</body>
+</html>
