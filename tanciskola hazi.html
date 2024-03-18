@@ -15,6 +15,9 @@
     <div class="megoldas" id="feladat3"></div>
     <div class="gomb" id="Martin" onclick="feladat4()">4.Feladat</div>
     <div class="megoldas" id="feladat4"></div>
+    <div class="gomb" onclick="feladat5()">5.Feladat </div>
+    Táncnév <input type="text">
+    <div class="megoldas" id="feladat5"></div>
         <script>
         class  Par
         {
@@ -67,10 +70,29 @@
 
         function feladat4()
         {
-            const villmaTancai=tancok.filter(function(v){
-                if(v.lany=="Villma")
+            const vilmaTancai=tancok.filter(function(v){
+                if(v.lany=="Vilma")
                 return v;
-            })
+            });
+            const tancNevek=[];
+            vilmaTancai.forEach(function(v){
+                tancNevek.push(v.tanc);
+            });
+
+            console.log(tancNevek);
+            ir("feladat4","Villma a következőket táncolta: "+tancNevek);
+        }
+
+        function feladat5()
+        {
+            const vilmaTancai=tancok.filter(function(v){
+                if(v.lany=="Vilma")
+                return v;
+            });
+
+
+            console.log(tancNevek);
+            ir("feladat5","Villma a következőket táncolta: ");
         }
        
     </script>
