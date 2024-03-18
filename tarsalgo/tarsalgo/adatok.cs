@@ -8,5 +8,9 @@ namespace tarsalgo
 {
     internal class adatok
     {
+        public int ora;
+        public int perc;
+        public int azonosito;
     }
+    
 }

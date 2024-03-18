@@ -1,0 +1,20 @@
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\02.16 gyak\02.16 gyak\bin\Debug\net6.0-windows\02.16 gyak.exe
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\02.16 gyak\02.16 gyak\bin\Debug\net6.0-windows\02.16 gyak.deps.json
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\02.16 gyak\02.16 gyak\bin\Debug\net6.0-windows\02.16 gyak.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\02.16 gyak\02.16 gyak\bin\Debug\net6.0-windows\02.16 gyak.dll
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\02.16 gyak\02.16 gyak\bin\Debug\net6.0-windows\02.16 gyak.pdb
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\02.16 gyak\02.16 gyak\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\02.16 gyak\02.16 gyak\obj\Debug\net6.0-windows\App.g.cs
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\02.16 gyak\02.16 gyak\obj\Debug\net6.0-windows\02.16 gyak_MarkupCompile.cache
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\02.16 gyak\02.16 gyak\obj\Debug\net6.0-windows\02.16 gyak_MarkupCompile.lref
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\02.16 gyak\02.16 gyak\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\02.16 gyak\02.16 gyak\obj\Debug\net6.0-windows\02.16 gyak.g.resources
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\02.16 gyak\02.16 gyak\obj\Debug\net6.0-windows\02.16 gyak.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\02.16 gyak\02.16 gyak\obj\Debug\net6.0-windows\02.16 gyak.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\02.16 gyak\02.16 gyak\obj\Debug\net6.0-windows\02.16 gyak.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\02.16 gyak\02.16 gyak\obj\Debug\net6.0-windows\02.16 gyak.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\02.16 gyak\02.16 gyak\obj\Debug\net6.0-windows\02.16 gyak.dll
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\02.16 gyak\02.16 gyak\obj\Debug\net6.0-windows\refint\02.16 gyak.dll
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\02.16 gyak\02.16 gyak\obj\Debug\net6.0-windows\02.16 gyak.pdb
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\02.16 gyak\02.16 gyak\obj\Debug\net6.0-windows\02.16 gyak.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\02.16 gyak\02.16 gyak\obj\Debug\net6.0-windows\ref\02.16 gyak.dll
