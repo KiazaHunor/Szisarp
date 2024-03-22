@@ -1,0 +1,20 @@
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\03.19 gyakorlas\03.19 gyakorlas\bin\Debug\net6.0-windows\03.19 gyakorlas.exe
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\03.19 gyakorlas\03.19 gyakorlas\bin\Debug\net6.0-windows\03.19 gyakorlas.deps.json
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\03.19 gyakorlas\03.19 gyakorlas\bin\Debug\net6.0-windows\03.19 gyakorlas.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\03.19 gyakorlas\03.19 gyakorlas\bin\Debug\net6.0-windows\03.19 gyakorlas.dll
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\03.19 gyakorlas\03.19 gyakorlas\bin\Debug\net6.0-windows\03.19 gyakorlas.pdb
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\03.19 gyakorlas\03.19 gyakorlas\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\03.19 gyakorlas\03.19 gyakorlas\obj\Debug\net6.0-windows\App.g.cs
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\03.19 gyakorlas\03.19 gyakorlas\obj\Debug\net6.0-windows\03.19 gyakorlas_MarkupCompile.cache
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\03.19 gyakorlas\03.19 gyakorlas\obj\Debug\net6.0-windows\03.19 gyakorlas_MarkupCompile.lref
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\03.19 gyakorlas\03.19 gyakorlas\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\03.19 gyakorlas\03.19 gyakorlas\obj\Debug\net6.0-windows\03.19 gyakorlas.g.resources
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\03.19 gyakorlas\03.19 gyakorlas\obj\Debug\net6.0-windows\03.19 gyakorlas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\03.19 gyakorlas\03.19 gyakorlas\obj\Debug\net6.0-windows\03.19 gyakorlas.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\03.19 gyakorlas\03.19 gyakorlas\obj\Debug\net6.0-windows\03.19 gyakorlas.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\03.19 gyakorlas\03.19 gyakorlas\obj\Debug\net6.0-windows\03.19 gyakorlas.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\03.19 gyakorlas\03.19 gyakorlas\obj\Debug\net6.0-windows\03.19 gyakorlas.dll
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\03.19 gyakorlas\03.19 gyakorlas\obj\Debug\net6.0-windows\refint\03.19 gyakorlas.dll
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\03.19 gyakorlas\03.19 gyakorlas\obj\Debug\net6.0-windows\03.19 gyakorlas.pdb
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\03.19 gyakorlas\03.19 gyakorlas\obj\Debug\net6.0-windows\03.19 gyakorlas.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\03.19 gyakorlas\03.19 gyakorlas\obj\Debug\net6.0-windows\ref\03.19 gyakorlas.dll
