@@ -1,53 +1,27 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Hazi hibák</title>
-    </head>
-    <body>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body onload="betolt()">
+    <script>
         
-        
-        <h1 onclick="ir()">100 Continue</h1>
-        <div id="100"></div>
-        <h1 onclick="ir2()">101 Switching Protocols</h1>
-        <div id="101"></div>
-        <h1 onclick="ir3()">103 Early Hints</h1>
-        <div id="103"></div>
-        <h1 onclick="ir4()">200 OK</h1>
-        <div id="200"></div>
-        <h1 onclick="ir5()">201 Created</h1>
-        <div id="201"></div>
-        
-    
-        
-        <script>
-            function iras(id,ize)
-            {
-                document.getElementById(id).innerHTML=ize;
-            }
-            function ir()
-            {
-                iras("100","A szerver megkapta a kérés fejléceit.")
-            }
-            function ir2()
-            {
-                iras("101","A kérelmező protokollváltásra kérte a szervert")
-            }
-            function ir3()
-            {
-                iras("103","A Hivatkozás fejléccel együtt használva lehetővé teszi a böngésző számára, hogy megkezdje az erőforrások előtöltését")
-            }
-            function ir4()
-            {
-                iras("200","A kérés rendben van")
-            }
-            function ir5()
-            {
-                iras("201","A kérés teljesítve")
-            }
- 
-            
-        </script>
-    </body>
+        function betolt() 
+    {
+        const xhr = new XMLHttpRequest()
+        xhr.onload=function()
+        {   
+
+            const valasz=JSON.parse
+            //document.querySelector("#ide").innerHTML=this.responseText;
+        };
+        xhr.open("get","vb.txt");
+        xhr.send();
+
+    }
+
+    </script>
+</body>
 </html>
