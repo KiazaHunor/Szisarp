@@ -1,0 +1,20 @@
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\doga SD\doga SD\bin\Debug\net6.0-windows\doga SD.exe
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\doga SD\doga SD\bin\Debug\net6.0-windows\doga SD.deps.json
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\doga SD\doga SD\bin\Debug\net6.0-windows\doga SD.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\doga SD\doga SD\bin\Debug\net6.0-windows\doga SD.dll
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\doga SD\doga SD\bin\Debug\net6.0-windows\doga SD.pdb
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\doga SD\doga SD\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\doga SD\doga SD\obj\Debug\net6.0-windows\App.g.cs
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\doga SD\doga SD\obj\Debug\net6.0-windows\doga SD_MarkupCompile.cache
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\doga SD\doga SD\obj\Debug\net6.0-windows\doga SD_MarkupCompile.lref
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\doga SD\doga SD\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\doga SD\doga SD\obj\Debug\net6.0-windows\doga SD.g.resources
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\doga SD\doga SD\obj\Debug\net6.0-windows\doga SD.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\doga SD\doga SD\obj\Debug\net6.0-windows\doga SD.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\doga SD\doga SD\obj\Debug\net6.0-windows\doga SD.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\doga SD\doga SD\obj\Debug\net6.0-windows\doga SD.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\doga SD\doga SD\obj\Debug\net6.0-windows\doga SD.dll
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\doga SD\doga SD\obj\Debug\net6.0-windows\refint\doga SD.dll
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\doga SD\doga SD\obj\Debug\net6.0-windows\doga SD.pdb
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\doga SD\doga SD\obj\Debug\net6.0-windows\doga SD.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\doga SD\doga SD\obj\Debug\net6.0-windows\ref\doga SD.dll

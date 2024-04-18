@@ -1,0 +1,83 @@
+﻿<Window x:Class="doga_SD.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:doga_SD"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="425">
+    <TabControl x:Name="tabControl">
+        <TabItem Header="Első" HorizontalAlignment="Left" Margin="-2,-2,0,0" Width="58">
+            <Grid Background="#FF00E0E5">
+                <Slider x:Name="slider" HorizontalAlignment="Left" Margin="94,98,0,0" VerticalAlignment="Top" Width="262" Height="20" Maximum="1" Minimum="10" SmallChange="0.5" Cursor="AppStarting"/>
+                <CheckBox x:Name="checkBox" Content="CheckBox" HorizontalAlignment="Left" Margin="262,178,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5">
+                    <CheckBox.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform Angle="29.365"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </CheckBox.RenderTransform>
+                </CheckBox>
+                <CheckBox x:Name="checkBox1" Content="CheckBox" HorizontalAlignment="Left" Margin="250,204,0,0" VerticalAlignment="Top" IsChecked="True" RenderTransformOrigin="0.5,0.5">
+                    <CheckBox.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform Angle="29.67"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </CheckBox.RenderTransform>
+                </CheckBox>
+                <CheckBox x:Name="checkBox2" Content="CheckBox" HorizontalAlignment="Left" Margin="234,225,0,0" VerticalAlignment="Top" IsChecked="True" RenderTransformOrigin="0.5,0.5">
+                    <CheckBox.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform Angle="29.75"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </CheckBox.RenderTransform>
+                </CheckBox>
+                <Label x:Name="label" Content="Adatok" HorizontalAlignment="Center" Margin="0,29,0,0" VerticalAlignment="Top" FontFamily="Bauhaus 93" FontSize="24"/>
+                <Label x:Name="label1" Content="Méret" HorizontalAlignment="Left" Margin="33,92,0,0" VerticalAlignment="Top"/>
+                <Label x:Name="label2" Content="Válassz!" HorizontalAlignment="Left" Margin="22,188,0,0" VerticalAlignment="Top"/>
+                <RadioButton x:Name="radioButton" Content="hús" HorizontalAlignment="Left" Margin="56,216,0,0" VerticalAlignment="Top"/>
+                <RadioButton x:Name="radioButton1" Content="zöldség" HorizontalAlignment="Left" Margin="56,265,0,0" VerticalAlignment="Top"/>
+                <RadioButton x:Name="radioButton2" Content="gyümölcs" HorizontalAlignment="Left" Margin="56,241,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.658,0.083"/>
+                <RadioButton x:Name="radioButton3" Content="egyéb" HorizontalAlignment="Left" Margin="56,294,0,0" VerticalAlignment="Top"/>
+                <ComboBox x:Name="comboBox" HorizontalAlignment="Left" Margin="171,237,0,0" VerticalAlignment="Top" Width="120" IsSynchronizedWithCurrentItem="True" Cursor="" IsDropDownOpen="True" RenderTransformOrigin="0.5,0.5">
+                    <ComboBox.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform Angle="29.813"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </ComboBox.RenderTransform>
+                    <ComboBoxItem Content="Háromfa"/>
+                </ComboBox>
+                <CheckBox x:Name="checkBox3" Content="" HorizontalAlignment="Left" Margin="183,502,0,0" VerticalAlignment="Top" Height="20" Width="19"/>
+                <Button x:Name="button" Content="Mehet!" HorizontalAlignment="Left" Margin="225,481,0,0" VerticalAlignment="Top" Background="#FF0050FF" Height="65" Width="157" Foreground="White" Click="button_Click" FontSize="20"/>
+                <Label x:Name="label1_Copy" Content="Elolvastam a szabályokat:" HorizontalAlignment="Left" Margin="22,496,0,0" VerticalAlignment="Top"/>
+                <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="147" Margin="16,182,0,0" VerticalAlignment="Top" Width="131"/>
+                <TextBox x:Name="textBox" HorizontalAlignment="Left" Margin="33,391,0,0" TextWrapping="Wrap" Text="Megjegyzés" VerticalAlignment="Top" Width="252" Height="79"/>
+
+
+            </Grid>
+        </TabItem>
+        <TabItem Header="Masodik">
+            <Grid Background="#FFE5E500">
+                <Label x:Name="label3" Content="Név:" HorizontalAlignment="Left" Margin="39,57,0,0" VerticalAlignment="Top"/>
+                <Label x:Name="label4" Content="Címke:" HorizontalAlignment="Left" Margin="39,102,0,0" VerticalAlignment="Top"/>
+                <Label x:Name="label5" Content="Eddigiek:" HorizontalAlignment="Left" Margin="27,224,0,0" VerticalAlignment="Top"/>
+                <Button x:Name="button1" Content="Felvétel" HorizontalAlignment="Left" Margin="27,148,0,0" VerticalAlignment="Top" Height="62" Width="109" Background="#FFB7A951"/>
+                <Image x:Name="image" HorizontalAlignment="Left" Height="174" Margin="228,57,0,0" VerticalAlignment="Top" Width="154" OpacityMask="#FFDC3232" Source="/kep.jpg.png"/>
+                <TextBox x:Name="textBox1" HorizontalAlignment="Left" Margin="90,61,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+                <TextBox x:Name="textBox2" HorizontalAlignment="Left" Margin="90,106,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="textBox2_TextChanged"/>
+            </Grid>
+        </TabItem>
+    </TabControl>
+
+</Window>

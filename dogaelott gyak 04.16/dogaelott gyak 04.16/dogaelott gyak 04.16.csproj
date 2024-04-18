@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>dogaelott_gyak_04._16</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="makeitmeme_jUB6B.jpeg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="makeitmeme_jUB6B.jpeg" />
+  </ItemGroup>
+
+</Project>

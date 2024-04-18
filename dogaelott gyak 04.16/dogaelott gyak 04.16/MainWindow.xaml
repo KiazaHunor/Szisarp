@@ -1,0 +1,39 @@
+﻿<Window x:Class="dogaelott_gyak_04._16.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:dogaelott_gyak_04._16"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="500" Width="680">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="263*"/>
+            <RowDefinition Height="64*"/>
+            <RowDefinition Height="157*"/>
+        </Grid.RowDefinitions>
+        <Grid.Background>
+            <ImageBrush ImageSource="/makeitmeme_jUB6B.jpeg"/>
+        </Grid.Background>
+        <Grid.OpacityMask>
+            <ImageBrush ImageSource="/makeitmeme_jUB6B.jpeg" TileMode="None"/>
+        </Grid.OpacityMask>
+        <Label x:Name="label3" Content="Név" HorizontalAlignment="Left" Margin="85,46,0,0" VerticalAlignment="Top" Background="White"/>
+        <Label x:Name="label1" Content="Cím" HorizontalAlignment="Left" Margin="85,95,0,0" VerticalAlignment="Top" Background="White"/>
+        <Label x:Name="label2" Content="Életkor" HorizontalAlignment="Left" Margin="85,142,0,0" VerticalAlignment="Top" Background="White"/>
+        <TextBox x:Name="textBox1" HorizontalAlignment="Left" Margin="142,50,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="textBox2" HorizontalAlignment="Left" Margin="142,99,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="textBox3" HorizontalAlignment="Left" Margin="142,146,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <ComboBox x:Name="comboBox" HorizontalAlignment="Left" Margin="142,258,0,0" VerticalAlignment="Top" Width="120" Grid.RowSpan="2">
+            <ComboBoxItem Content="Iharos"/>
+            <ComboBoxItem Content="Kutas"/>
+            <ComboBoxItem Content="Iharosberény"/>
+            <ComboBoxItem Content="Kadarkút"/>
+        </ComboBox>
+        <Label x:Name="label4" Content="Lakhely" HorizontalAlignment="Left" Margin="82,254,0,0" VerticalAlignment="Top" Grid.RowSpan="2" Background="White"/>
+        <Button x:Name="button" Content="Gyere tedd a számba!!" HorizontalAlignment="Left" Margin="100,57,0,0" VerticalAlignment="Top" Grid.Row="1" Grid.RowSpan="2"/>
+        <RadioButton x:Name="radioButton" Content="Fiú"  HorizontalAlignment="Left" Margin="85,188,0,0" VerticalAlignment="Top" Background="White" Foreground="White"/>
+        <RadioButton x:Name="radioButton1" Content="Lány" HorizontalAlignment="Left" Margin="85,227,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <Separator HorizontalAlignment="Left" Margin="85,208,0,0" VerticalAlignment="Top" Height="14" Width="85"/>
+    </Grid>
+</Window>
