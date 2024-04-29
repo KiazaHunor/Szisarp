@@ -19,6 +19,30 @@
     <div id="demo"></div>
     <div id="ide"></div>
 
+    <FORm>
+        <select id="nemzetisegValaszto"></select>
+        <script>
+            const natList={"AU","BR", "CA", "CH", "DE", "DK", "ES", "FI", "FR", "GB", "IE", "IN", "IR", "MX", "NL", "NO", "NZ", "RS", "TR", "UA", "US"};
+
+            const select=document.getElementById("nemzetisegValaszto");
+
+            natList.forEach(function(value){
+                const elem=document.createElement("option");
+                elem.innerHTML=value;
+                elem.value=value;
+                select.appendChild(elem); 
+            });
+
+            select.addEventListener("change",function(select){
+                console.log(select);
+            })
+        </script>
+    </FORm>
+
+
+
+
+
     <script>
         function loadDoc() {
             const xhttp = new XMLHttpRequest();
