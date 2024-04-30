@@ -1,0 +1,20 @@
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\04.19 gyak D\04.19 gyak D\bin\Debug\net6.0-windows\04.19 gyak D.exe
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\04.19 gyak D\04.19 gyak D\bin\Debug\net6.0-windows\04.19 gyak D.deps.json
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\04.19 gyak D\04.19 gyak D\bin\Debug\net6.0-windows\04.19 gyak D.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\04.19 gyak D\04.19 gyak D\bin\Debug\net6.0-windows\04.19 gyak D.dll
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\04.19 gyak D\04.19 gyak D\bin\Debug\net6.0-windows\04.19 gyak D.pdb
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\04.19 gyak D\04.19 gyak D\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\04.19 gyak D\04.19 gyak D\obj\Debug\net6.0-windows\App.g.cs
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\04.19 gyak D\04.19 gyak D\obj\Debug\net6.0-windows\04.19 gyak D_MarkupCompile.cache
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\04.19 gyak D\04.19 gyak D\obj\Debug\net6.0-windows\04.19 gyak D_MarkupCompile.lref
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\04.19 gyak D\04.19 gyak D\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\04.19 gyak D\04.19 gyak D\obj\Debug\net6.0-windows\04.19 gyak D.g.resources
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\04.19 gyak D\04.19 gyak D\obj\Debug\net6.0-windows\04.19 gyak D.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\04.19 gyak D\04.19 gyak D\obj\Debug\net6.0-windows\04.19 gyak D.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\04.19 gyak D\04.19 gyak D\obj\Debug\net6.0-windows\04.19 gyak D.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\04.19 gyak D\04.19 gyak D\obj\Debug\net6.0-windows\04.19 gyak D.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\04.19 gyak D\04.19 gyak D\obj\Debug\net6.0-windows\04.19 gyak D.dll
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\04.19 gyak D\04.19 gyak D\obj\Debug\net6.0-windows\refint\04.19 gyak D.dll
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\04.19 gyak D\04.19 gyak D\obj\Debug\net6.0-windows\04.19 gyak D.pdb
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\04.19 gyak D\04.19 gyak D\obj\Debug\net6.0-windows\04.19 gyak D.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\04.19 gyak D\04.19 gyak D\obj\Debug\net6.0-windows\ref\04.19 gyak D.dll
