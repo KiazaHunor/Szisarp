@@ -44,6 +44,13 @@ namespace _04._30_gyakorlas_D
             tabla.Children.Add(cimke);
             
         }
-      
+
+        private void button_Click(object sender, RoutedEventArgs e)
+        {
+            mezo(0, 0, "Martin");
+            mezo(0, 0, "Martin");
+            mezo(0, 0, "Martin");
+            mezo(0, 0, "Martin");
+        }
     }
 }
