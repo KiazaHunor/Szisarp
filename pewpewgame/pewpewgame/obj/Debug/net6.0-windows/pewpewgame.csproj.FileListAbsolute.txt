@@ -1,0 +1,6 @@
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\pewpewgame\pewpewgame\obj\Debug\net6.0-windows\pewpewbro.Form1.resources
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\pewpewgame\pewpewgame\obj\Debug\net6.0-windows\pewpewgame.csproj.GenerateResource.cache
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\pewpewgame\pewpewgame\obj\Debug\net6.0-windows\pewpewgame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\pewpewgame\pewpewgame\obj\Debug\net6.0-windows\pewpewgame.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\pewpewgame\pewpewgame\obj\Debug\net6.0-windows\pewpewgame.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Horvath Hunor\Szisarp\pewpewgame\pewpewgame\obj\Debug\net6.0-windows\pewpewgame.csproj.CoreCompileInputs.cache
